@@ -1,5 +1,6 @@
 package laboratorio1;
 
+import com.formdev.flatlaf.FlatDarculaLaf;
 import com.formdev.flatlaf.FlatLightLaf;
 import java.net.MalformedURLException;
 
@@ -7,7 +8,7 @@ import java.net.MalformedURLException;
 public class Laboratorio1 {
 
     public static void main(String[] args) throws MalformedURLException {
-        FlatLightLaf.setup();
+        FlatDarculaLaf.setup();
         ChatBot frame = new ChatBot();
         frame.setVisible(true);
         frame.setSize(881, 517);

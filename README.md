@@ -76,4 +76,4 @@ import org.json.JSONObject;  // Manejo de objetos JSON2
 ## Autores
 
 - [@Juan Camilo Lazala Hurtado](https://github.com/JLazalaHurtado)
-- [José Samur](https://github.com/JLazalaHurtado)
+- [José Samur](https://github.com/Samur1x)

@@ -1,7 +1,6 @@
 package laboratorio1;
 
 import com.formdev.flatlaf.FlatDarculaLaf;
-import com.formdev.flatlaf.FlatLightLaf;
 import java.net.MalformedURLException;
 
 

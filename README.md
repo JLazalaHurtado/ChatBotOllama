@@ -1,3 +1,4 @@
+
 # Proyecto ChatBot con Ollama API y Java Swing
 
 Este proyecto consiste en un **ChatBot** que utiliza la **API de Ollama** (versión 3.2) y está implementado con una interfaz gráfica utilizando **Java Swing**. El ChatBot se conecta a la API de Ollama para generar respuestas a partir de la entrada del usuario.
@@ -77,3 +78,6 @@ import org.json.JSONObject;  // Manejo de objetos JSON2
 
 - [@Juan Camilo Lazala Hurtado](https://github.com/JLazalaHurtado)
 - [José Samur](https://github.com/JLazalaHurtado)
+=======
+# ChatBotOllama
+>>>>>>> main
